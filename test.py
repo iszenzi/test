@@ -1,4 +1,4 @@
 print('Hello, World!')
 print('bababoi')
-a = list(range(100))
+a = list(range(1000))
 print(a)
